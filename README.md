@@ -18,7 +18,7 @@
 - 🎓 I’m currently studying at [Universidad De Colima](https://www.ucol.mx)
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 🌐 I like web development and mobile app development.
-- 💻 I’m always open to collaborating on projects to learn.
+- 💻 I am always open to collaborate in projects, to keep learning.
 - 📫 You can reach me at my <a href="mailto:rayrg02@gmail.com">Gmail</a> and [LinkedIn](https://www.linkedin.com/in/raymundo-ramirez-gomez-dev)
 - 📄 Know about my experiences, here is my [Resume](proximamente)
 
