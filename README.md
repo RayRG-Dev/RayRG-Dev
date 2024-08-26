@@ -26,10 +26,5 @@
 - 📄 Know about my experiences, here is my [Resume](proximamente)
 
 
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/RayRG-Dev">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayRG-Dev&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 
