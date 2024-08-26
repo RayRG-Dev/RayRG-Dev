@@ -12,7 +12,6 @@
 
    <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/its___ray___">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-
 </div>
 <!--
 **RayRG-Dev/RayRG-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,6 +24,13 @@
 - 📫 You can reach me at my [Gmail](rayrg02@gmail.com) and [LinkedIn](https://www.linkedin.com/in/raymundo-ramirez-gomez-dev)
 - 📄 Know about my experiences, here is my [Resume](proximamente)
 
+  <br>
 
+### ⚙️ &nbsp;GitHub Analytics
+<p align="center">
+<a href="https://github.com/RayRG-Dev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RayRG-Dev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 
