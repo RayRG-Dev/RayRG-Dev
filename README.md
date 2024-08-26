@@ -19,8 +19,9 @@
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 🌐 I like web development and mobile app development.
 - 💻 I’m always open to collaborating on projects to learn.
-- 📫 You can reach me at my [Gmail](rayrg02@gmail.com) and [LinkedIn](https://www.linkedin.com/in/raymundo-ramirez-gomez-dev)
+- 📫 You can reach me at my <a href="mailto:aquisudirecciondecorreo">Gmail</a> and [LinkedIn](https://www.linkedin.com/in/raymundo-ramirez-gomez-dev)
 - 📄 Know about my experiences, here is my [Resume](proximamente)
+
 
 <br>
 
