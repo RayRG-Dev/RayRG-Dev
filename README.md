@@ -20,7 +20,7 @@
 - 🌐 I like web development and mobile app development.
 - 💻 I am always open to collaborate in projects, to keep learning.
 - 📫 You can reach me at my <a href="mailto:rayrg02@gmail.com">Gmail</a> and [LinkedIn](https://www.linkedin.com/in/raymundo-ramirez-gomez-dev)
-- 📄 Know about my experiences, here is my [Resume](Resume.pdf)
+- 📄 Know about my experiences, here is my [Resume](Resume/Resume.pdf)
 
 
 <br>
