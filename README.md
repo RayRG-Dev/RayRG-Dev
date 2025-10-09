@@ -15,7 +15,7 @@
 </div>
 
 ## About me
-- 🎓 I’m currently studying at [Universidad De Colima](https://www.ucol.mx)
+- 🎓 I Studied a Internet Technologies Engineering at [Universidad De Colima](https://www.ucol.mx)
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 🌐 I like web development and mobile app development.
 - 💻 I am always open to collaborate in projects, to keep learning.
